@@ -1,7 +1,7 @@
 {
-	"id":1,
 	"firstname": "Arlene",
 	"lastname": "Lim",
 	"email":"arlene7@gmail.com",
-	"password":"arlenepassword"
+	"password":"arlenepassword",
+	"rank":"1"
 }
